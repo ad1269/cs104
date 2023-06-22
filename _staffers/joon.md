@@ -2,5 +2,5 @@
 name: Joon Lee
 role: Instructor
 email: joonlee@google.com
-photo: joon.jpg
+photo: me2022.jpg
 ---
