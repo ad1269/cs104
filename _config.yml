@@ -18,7 +18,7 @@ tagline: Alabama A&M CS 104 Fall 2023
 description: Intro to Computers and Ethics
 author: Joon Lee
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://leejoon.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'http://cs104.info' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
