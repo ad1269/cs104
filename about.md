@@ -78,7 +78,7 @@ We will be using software to detect plaigarism. If we ask you how your code work
 
 ## Resources
 
-This course website, [cs104.info])(http://cs104.info), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
+This course website, [cs104.info](http://cs104.info), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
 
 EdStem We will use EdStem for class discussion as well as assignments and quizzes. You will receive a link to sign up when we begin class. You are highly encouraged to post questions regarding the class directly on EdStem.
 
