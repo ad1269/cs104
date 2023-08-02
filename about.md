@@ -47,10 +47,10 @@ Your overall grade will be calculated using the following relative weights:
 
 | Assignment Type | Weight in Overall Grade |
 |:-------------|:------|
-| Midterm Exam(s) | 15% |
-| Final Exam/Final Project | 25% |
-| Homework/Classwork | 10% |
-| Quiz | 50% |
+| Midterm Exam | 20% |
+| Final Exam | 20% |
+| Homework/Classwork | 40% |
+| Participation/Attendance/Quizzes | 20% |
 
 Your final letter grade will be determined using the following scale:
 
@@ -68,7 +68,7 @@ There will homeworks due every Thursday at 10:00 PM, with the following homework
 
 ### Exams 
 
-There will be one midterm and one final exam.
+There will be one midterm and one final exam. There will be almost weekly quizzes.
 
 ### Cheating
 
