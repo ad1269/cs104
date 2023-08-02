@@ -28,8 +28,13 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Just the Class on GitHub:
-    - 'https://leejoon.github.io'
+  Blackboard:
+    - 'https://aamu.blackboard.com'
+  EdStem:
+    - 'https://edstem.org/us/courses/41263/'
+  PythonTutor:
+    - 'https://pythontutor.com/composingprograms.html#mode=edit'
+  
 footer_content:
 
 # Collections for website data
