@@ -22,3 +22,13 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign u_program_specialist = site.staffers | where: 'role', 'University Program Specialist' %}
+{% assign num_teaching_assistants = u_program_specialist | size %}
+{% if num_teaching_assistants != 0 %}
+## Google University Program Specialist
+
+{% for staffer in u_program_specialist %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
