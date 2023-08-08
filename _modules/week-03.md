@@ -8,4 +8,4 @@ Aug 31
 : **HW 1 Due**{: .label .label-red}
 
 Sept 1
-: **HW 2 Released**{: .label .label-blue}[HW2: Booleans, Logical Operators, Conditionals]([https://edstem.org/us/courses/41263/lessons/72111/slides/384148](https://edstem.org/us/courses/41263/lessons/72113/slides/384168)
+: **HW 2 Released**{: .label .label-blue}[HW2: Booleans, Logical Operators, Conditionals](https://edstem.org/us/courses/41263/lessons/72113/slides/384168)
