@@ -5,5 +5,5 @@ email: danielgathogo@google.com
 photo: daniel.jpg
 ---
 
-[Schedule an OH appointment](https://calendar.app.google/FrYCmmXz652v3CsB7){: .btn .btn-outline }
+[Schedule an Office Hours appointment](https://calendar.app.google/FrYCmmXz652v3CsB7){: .btn .btn-outline }
 
