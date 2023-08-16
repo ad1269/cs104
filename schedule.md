@@ -12,3 +12,5 @@ description: The weekly event schedule.
 [Daniel Gathogo: Schedule an Office Hours appointment](https://calendar.app.google/FrYCmmXz652v3CsB7){: .btn .btn-outline }
 
 [Mike Williams: Schedule an Office Hours appointment](https://calendar.app.google/DbWqp3ny2qaufvyE9){: .btn .btn-outline }
+
+[Joyce Toh: Schedule an Office Hours appointment](https://calendar.app.google/Rs8h6BmWVkTjSEsT8.){: .btn .btn-outline }
