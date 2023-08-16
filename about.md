@@ -31,7 +31,7 @@ You are expected to come to each class as there will be quizzes given at a rando
 
 ### Office Hours
 
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will contain a link in the event that can be found at the [course schedule page](http://cs104.info/schedule). In-person office hours will be held in Sonam’s office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will contain a link in the event that can be found at the [course schedule page](http://cs104.info/schedule). You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
 
 If you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
@@ -64,7 +64,7 @@ Your final letter grade will be determined using the following scale:
 
 ### Assignments
 
-There will homeworks due every Thursday at 10:00 PM, with the following homework released every Friday. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
+There will homeworks due on Monday at 10:00 PM, with the following homework released every Friday. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
 
 ### Exams 
 
