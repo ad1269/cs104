@@ -23,6 +23,16 @@ description: A listing of all the course staff members.
 {% endfor %}
 {% endif %}
 
+{% assign google_teaching_assistants = site.staffers | where: 'role', 'Google Teaching Assistant' %}
+{% assign num_google_teaching_assistants = google_teaching_assistants | size %}
+{% if num_google_teaching_assistants != 0 %}
+## Google Teaching Assistants
+
+{% for staffer in google_teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
 {% assign u_program_specialist = site.staffers | where: 'role', 'University Program Specialist' %}
 {% assign num_teaching_assistants = u_program_specialist | size %}
 {% if num_teaching_assistants != 0 %}
