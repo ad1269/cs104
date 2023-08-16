@@ -5,8 +5,7 @@ description: The weekly event schedule.
 ---
 
 # Schedule
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_5a01a6548bb14609a341592a2caf0d7763683743533976ab20e459c0e6490ccd%40group.calendar.google.com&ctz=America%2FChicago&mode=WEEK&&color=%23616161&color=%237986CB" style="border: 0" width="800" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=Y181YTAxYTY1NDhiYjE0NjA5YTM0MTU5MmEyY2FmMGQ3NzYzNjgzNzQzNTMzOTc2YWIyMGU0NTljMGU2NDkwY2NkQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y18xZjdjZjVkM2Y2ZTZlZTVmYjYzM2M3NzU5NDk3ZDcyMjc0NDMxMjEwMWNhNDU2NGJiOTVkNDg3YjdlMDM1ZmY0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23EF6C00&color=%233F51B5" style="border:solid 1px #777" width="800" height="800" frameborder="0" scrolling="no"></iframe>
 
 ## Virtual office hours with Google Teaching Assistants links:
 
