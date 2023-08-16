@@ -10,5 +10,6 @@ description: The weekly event schedule.
 
 ## Virtual office hours with Google Teaching Assistants links:
 
-Daniel Gathogo: [Schedule an Office Hours appointment](https://calendar.app.google/FrYCmmXz652v3CsB7){: .btn .btn-outline }
-Mike Williams [Schedule an Office Hours appointment](https://calendar.app.google/DbWqp3ny2qaufvyE9){: .btn .btn-outline }
+[Daniel Gathogo: Schedule an Office Hours appointment](https://calendar.app.google/FrYCmmXz652v3CsB7){: .btn .btn-outline }
+
+[Mike Williams: Schedule an Office Hours appointment](https://calendar.app.google/DbWqp3ny2qaufvyE9){: .btn .btn-outline }
