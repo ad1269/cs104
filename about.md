@@ -27,7 +27,7 @@ Lectures and office hours are the main ways in which you will interact with your
 
 ### Lecture
 
-You are expected to come to each class as there will be quizzes given at a random time during class. Please see the official syllabus for more information on the attendance policy.
+You are expected to come to each class as there will be quizzes given at the start of class. Quizzes will be on Wednesday or Thursday. Please see the official syllabus for more information on the attendance policy.
 
 ### Office Hours
 
@@ -84,7 +84,7 @@ This course website, [cs104.info](http://cs104.info), will be a helpful resource
 
 EdStem We will use EdStem for class discussion as well as assignments and quizzes. You will receive a link to sign up when we begin class. You are highly encouraged to post questions regarding the class directly on EdStem.
 
-Python Tutor Python Tutor is a helpful tool to visualize your code. You may use this to help debug homework assignments and understand concepts learned in class.
+Python Tutor is a helpful tool to visualize your code. You may use this to help debug homework assignments and understand concepts learned in class.
 
 Blackboard Your official class grades will be published in Blackboard. Some students will also be using Blackboard Collaborate to join lectures virtually.
 
