@@ -14,3 +14,5 @@ description: The weekly event schedule.
 [Mike Williams: Schedule an Office Hours appointment](https://calendar.app.google/DbWqp3ny2qaufvyE9){: .btn .btn-outline }
 
 [Joyce Toh: Schedule an Office Hours appointment](https://calendar.app.google/Rs8h6BmWVkTjSEsT8){: .btn .btn-outline }
+
+[Parth Gupta: Schedule an Office Hours appointment](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ItQR8GCU-B1d-M9CJ9renY1uV0R0GOU0fTxlbKQy-ouG5fTlQvbAagnbdtSn7enASzUkHMv-i){: .btn .btn-outline }
