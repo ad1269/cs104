@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Calendar
+description: Calendar view of class and office hours
 ---
 
 # Schedule
