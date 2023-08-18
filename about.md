@@ -70,7 +70,7 @@ There will homeworks due on Monday at 10:00 PM, with the following homework rele
 
 ### Exams 
 
-There will be one midterm and one final exam. There will be almost weekly quizzes.
+There will be one midterm and one final exam. There will be five quizzes.
 
 ### Cheating
 
