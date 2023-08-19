@@ -9,13 +9,15 @@ description: career info. Internships and Mock Interviews
 There are a lot of opportunities for technology internships designed specifically for freshmen! Even if you don’t have much programming experience, you should definitely apply. You also shouldn’t limit yourself to freshman programs because you are eligible to apply for most internships open to undergraduates.
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
-- [Explore Microsoft](https://careers.microsoft.com/us/en/job/1080729/Explore-Intern-Opportunities){:target="_blank"}
+- [Explore Microsoft](https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond){:target="_blank"}
 - [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
 - [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
+And there are many more internship links [here](https://github.com/SimplifyJobs/Summer2024-Internships){:target="_blank"}
+
 Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
 
-[Crowd Sourced Tech Intern Pay](https://www.levels.fyi/internships/)
+[Crowd Sourced Tech Intern Pay](https://www.levels.fyi/internships/){:target="_blank"}
   
 # Resumes
 You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
