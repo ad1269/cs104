@@ -10,6 +10,7 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Explore Microsoft](https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond){:target="_blank"}
+- [Amazon Properl](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us){:target="_blank"}
 - [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
 - [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
