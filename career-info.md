@@ -10,15 +10,14 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Explore Microsoft](https://careers.microsoft.com/us/en/job/1080729/Explore-Intern-Opportunities){:target="_blank"}
+- [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
 Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
 
-[Crowd Source Tech Intern Pay](https://www.levels.fyi/internships/)
+[Crowd Sourced Tech Intern Pay](https://www.levels.fyi/internships/)
   
 # Resumes
 You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
-
-You can also reach out to Darian Ubogagu, the Google HBCU Program Manager for Alabama A&M, for help with creating a resume or reviewing the resume that you’ve created. Her email is darianep@google.com.
 
 # Interview Prep
 In addition to hosting office hours, our Google Engineers on course staff will provide free mock interviews to you based on the material that you've learned in the class and the requirements of the STEP internship. 
