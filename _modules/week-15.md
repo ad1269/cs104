@@ -5,4 +5,4 @@ title: Week 15
 Thanksgiving Recess
 
 Nov 20
-:  **HW 8 Due**{: .label .label-red }
+:  **HW Last: 2D Lists, Set, Dictionaries Due**{: .label .label-red }
