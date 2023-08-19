@@ -10,6 +10,10 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Explore Microsoft](https://careers.microsoft.com/us/en/job/1080729/Explore-Intern-Opportunities){:target="_blank"}
+
+Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
+
+[Crowd Source Tech Intern Pay](https://www.levels.fyi/internships/)
   
 # Resumes
 You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
