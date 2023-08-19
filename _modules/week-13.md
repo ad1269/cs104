@@ -8,4 +8,4 @@ Nov 06
 :  **HW Wordle Project Start Doc Due: Done and Reviewed**{: .label .label-red }
 
 Nov 10
-:  **HW 8 Released**{: .label .label-blue } [HW 8: 2D Lists, Set, Dictionaries](https://edstem.org/us/courses/41263/lessons/72121/slides/384203)
+:  **HW Last: 2D Lists, Set, Dictionaries Released**{: .label .label-blue } [HW Last: Lists, Set, Dictionaries](https://edstem.org/us/courses/41263/lessons/72121/slides/384203)
