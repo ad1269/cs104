@@ -10,6 +10,7 @@ There are a lot of opportunities for technology internships designed specificall
 
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Explore Microsoft](https://careers.microsoft.com/us/en/job/1080729/Explore-Intern-Opportunities){:target="_blank"}
+- [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
 - [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
 Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
