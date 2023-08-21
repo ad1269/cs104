@@ -2,7 +2,7 @@
 title: Week 3
 ---
 
-**[I/O](https://docs.google.com/presentation/d/14L8A8ADTS0NHKiyTvFoQ9NwSddhG3-KcG3W3Aag892s/edit?usp=sharing), [Internships](https://docs.google.com/presentation/d/13mwev17aqCKyTXPZGuKrwTxhXsdHB_Shb1nVz59bU00/edit?usp=sharing), [Booleans/Comparison Operators](https://docs.google.com/presentation/d/1fCC0feDfYbvgLvdUwfahRt-rGNaM_b0LNBuQl2xemo0/edit?usp=sharing), [Logical Operators](https://docs.google.com/presentation/d/1J-3_EX-o_TBsHAILn6yxDM7R81e9dyZ5iF0kfvSQvgE/edit?usp=sharing), [Conditionals](https://docs.google.com/presentation/d/1E20JKD46Qp2aOXOOsxeCgDRhMgg9MMtybq5c2cJ7Chg/edit?usp=sharing)**
+**[I/O](https://docs.google.com/presentation/d/14L8A8ADTS0NHKiyTvFoQ9NwSddhG3-KcG3W3Aag892s/edit?usp=sharing), [Booleans/Comparison Operators](https://docs.google.com/presentation/d/1fCC0feDfYbvgLvdUwfahRt-rGNaM_b0LNBuQl2xemo0/edit?usp=sharing), [Logical Operators](https://docs.google.com/presentation/d/1J-3_EX-o_TBsHAILn6yxDM7R81e9dyZ5iF0kfvSQvgE/edit?usp=sharing), [Conditionals](https://docs.google.com/presentation/d/1E20JKD46Qp2aOXOOsxeCgDRhMgg9MMtybq5c2cJ7Chg/edit?usp=sharing)**
 
 Aug 28
 : **HW 0 Due**{: .label .label-red}
