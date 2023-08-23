@@ -5,7 +5,7 @@ email: prosper.banda@bulldogs.aamu.edu
 photo: prosper.jpg
 ---
 
-Booking link: https://doodle.com/bp/prosperbanda/master-python-with-prosper-cs104
+[Book Office hours with Prosper](https://doodle.com/bp/prosperbanda/master-python-with-prosper-cs104){: .btn .btn-outline }\
 
 Office hours:\
 Monday: 9-10 am\
