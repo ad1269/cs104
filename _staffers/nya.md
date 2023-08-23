@@ -1,7 +1,7 @@
 ---
 name: Nya Hardy
 role: Teaching Assistant
-email: daquandalon.danie@bulldogs.aamu.edu
+email: nya.hardy@bulldogs.aamu.edu
 photo: nya.jpg
 ---
 
