@@ -6,7 +6,7 @@ email: daquandalon.danie@bulldogs.aamu.edu
 photo: quan.jpg
 ---
 
-[Doodle Booking Link with Quan](https://doodle.com/bp/daquandalondaniel/cs-104-extra-help-wquan-){: .btn .btn-outline }\
+[Book Office hours with Quan](https://doodle.com/bp/daquandalondaniel/cs-104-extra-help-wquan-){: .btn .btn-outline }\
 Office Hours - M - N/A , T - 2:00pm - 4:30pm, Wed - 11:00am - 1:30pm, TR - 2:00pm - 4:30pm\
 Hours are subject to be changed/ hours added
 \
