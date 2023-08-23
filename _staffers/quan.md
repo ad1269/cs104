@@ -1,9 +1,17 @@
 ---
-name: Da'Quandalon Daniel
+name: Quan Daniel
 role: Teaching Assistant
 pronouns: he/him
 email: daquandalon.danie@bulldogs.aamu.edu
 photo: quan.jpg
 ---
 
-I am Da'Quandalon Daniel, a computer science major from Gadsden, AL, with a 4.0 GPA at Alabama A&M University. I recently completed an internship program this past summer with Raytheon. I enjoy learning and experiencing new things. I love to fish, try new restaurants, and I'm an absolute sneakerhead I love to buy shoes. I'm very friendly and enjoy meeting new people, so don't be scared to reach out. I look forward to assisting with this course.
+[Doodle Booking Link with Quan](https://doodle.com/bp/daquandalondaniel/cs-104-extra-help-wquan-){: .btn .btn-outline }\
+Office Hours - M - N/A , T - 2:00pm - 4:30pm, Wed - 11:00am - 1:30pm, TR - 2:00pm - 4:30pm\
+Hours are subject to be changed/ hours added
+\
+\
+Hi everyone! I'm Da'Quandalon Daniel, a Junior Computer Science Major hailing from Gadsden, AL! This will be my 3rd semester being an TA for the course and I look forward to working with everyone! Outside of my academics, I travel a lot doing hackathon and business case competitions. I love traveling and trying new restaurants! If you ever see me around campus don't be scared to say Hi! As always, Go Bulldogs :).\
+\
+Hobbies - I enjoy fishing, watching movies, and playing video games in my free time.\
+Something Unique about me - I'm a really big sneakerhead and enjoy collecting shoes!
