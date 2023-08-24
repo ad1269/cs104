@@ -9,7 +9,7 @@ photo: Nya.jpg
 \
 Monday, Wednesday, Friday: 10:00am-11:30am
 Tuesday, Thursday: 11:30am-1:00pm
-(Office hours subject to change: Use link to book)\
+(Office hours subject to change: Use link to book)
 
 Hi, I am Nya. More information coming soon
 
