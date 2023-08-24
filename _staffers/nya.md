@@ -5,4 +5,4 @@ email: nya.hardy@bulldogs.aamu.edu
 photo: Nya.jpg
 ---
 
-Hi, I am Nya.
+Hi, I am Nya. More information coming soon
