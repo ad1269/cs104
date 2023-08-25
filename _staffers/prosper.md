@@ -7,6 +7,11 @@ photo: prosper.jpg
 
 [Book Office hours with Prosper](https://doodle.com/bp/prosperbanda/master-python-with-prosper-cs104){: .btn .btn-outline }
 \
+Monday: 9-10 am\
+Tuesday: 12:30-1:30pm\
+Wednesday: 9-10 am\
+Thursday: 12:30-1:30pm\
+Friday:  9-10 am\
 (Office hours subject to change: Use link to book)\
 \
 Hello! I'm Prosper Banda, a junior Computer Science student from Gweru, Zimbabwe. I've been fortunate enough to gain hands-on experience from two internships. My first deep dive was into the realm of Machine Learning and AI, where I focused on the safe deployment of AI in autonomous vehicles. During the summer of 2023, I joined Meta, working closely with the Facebook Ads team.
