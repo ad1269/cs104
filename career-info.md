@@ -21,6 +21,8 @@ Most technology internships offer competitive pay. Levels.fyi is an excellent we
 [Crowd Sourced Tech Intern Pay](https://www.levels.fyi/internships/){:target="_blank"}
   
 # Resumes
+There are some great resume tips on the [hackathonmentor blog](http://tinyurl.com/writingresumetips)
+
 You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
 
 # Interview Prep
