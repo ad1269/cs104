@@ -7,5 +7,11 @@ title: Week 5
 Sep 11
 :  **HW 2 Due**{: .label .label-red }
 
+Sep 13
+:  **Quiz 2 (MWF sections)**{: .label .label-red }
+
+Sep 13
+:  **Quiz 2 (TTh sections)**{: .label .label-red }
+
 Sep 15
 :  **HW 4 Released**{: .label .label-blue } [HW 4: More Functions](https://edstem.org/us/courses/41263/lessons/72115/slides/384177)
