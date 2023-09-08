@@ -14,6 +14,8 @@ There are a lot of opportunities for technology internships designed specificall
 - [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
 - [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
+I found this [source of internships specifically geared towards underclassmen](https://github.com/codicate/underclassmen-internships).
+
 And there are many more internship links [here](https://github.com/SimplifyJobs/Summer2024-Internships){:target="_blank"} and [here](https://www.levels.fyi/internships/){:target="_blank"}.
 
 Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
