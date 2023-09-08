@@ -12,6 +12,7 @@ There are a lot of opportunities for technology internships designed specificall
 - [Explore Microsoft](https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond){:target="_blank"}
 - [Amazon Propel](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us){:target="_blank"}
 - [Uber Star](https://www.uber.com/us/en/careers/uberstar/){:target="_blank"}
+- [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity){:target="_blank"}
 - [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
 - [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
