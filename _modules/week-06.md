@@ -7,5 +7,11 @@ title: Week 6
 Sep 18
 :  **HW 3 Due**{: .label .label-red }
 
+Sep 20
+:  **Quiz 3 (MWF sections)**{: .label .label-red }
+
+Sep 21
+:  **Quiz 3 (TTh sections)**{: .label .label-red }
+
 Sep 22
 :  **HW 5 Released**{: .label .label-blue } [HW 5: Strings, While loops](https://edstem.org/us/courses/41263/lessons/72116/slides/384184)
