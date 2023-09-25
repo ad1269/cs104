@@ -58,6 +58,6 @@ You can sign up for mock interviews with one of the Google TAs. Click on one of 
 
 If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
 
+### What do after getting a job in Big Tech
 
-
-
+[Making Good Decisions](https://docs.google.com/presentation/d/10pFtmoBFdFCVLr5vqnjK7VPkp0Qu14ALcnJEzJucBfI/edit)
