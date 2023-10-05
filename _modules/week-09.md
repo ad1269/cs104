@@ -2,7 +2,7 @@
 title: Week 9
 ---
 
-**Lists (continued)**
+[Stacks](https://docs.google.com/presentation/d/1WwVKsd1Kqk1YjKx1XvdptPg-FC5w78Wz7Tkq_pvloH0/edit#slide=id.p)
 
 Oct 9
 :  **HW 6 Due**{: .label .label-red }
