@@ -52,8 +52,7 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 -  Recommendations from Students: [CodeSignal](https://codesignal.com/), [CodeWars](https://www.codewars.com/)
 -  [InterviewCake](https://interviewcake.com): Sign up for the free weekly emails, don't pay!
 
-### Mock Interviews with CS104 Google TAs
-
-You can sign up for mock interviews with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You will need to book at least an hour for a mock interview. You may as many interviews as you'd like for the remainder of the semester, just please book with a new person each time (as each interviewer likely has only one question they ask). Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
+### Mock Interviews with Google Career Coaches
+You can sign up for mock interviews with one of the Google TAs. Please use the links in this [doc](https://drive.google.com/file/d/15mT8BlysaEapHg0Ibl1-iXaXp8-1HBUT/view?usp=drive_link) to schedule mock interviews. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
 
 If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
