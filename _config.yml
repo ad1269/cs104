@@ -36,6 +36,10 @@ aux_links:
     - 'https://pythontutor.com/composingprograms.html#mode=edit'
   CodingBat:
     - 'https://codingbat.com/python'
+  PicoCTF:
+    - 'https://picoctf.org'
+  LeetCode:
+    - 'https://leetcode.com'
   
 footer_content:
 
