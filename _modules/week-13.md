@@ -7,9 +7,11 @@ title: Week 13
 Nov 06
 :  **Project Wordle Starter Doc Due: Done and Reviewed**{: .label .label-red }
 
-Nov 08 : Quiz 6 (MWF sections){: .label .label-red }
+Nov 08
+: Quiz 6 (MWF sections){: .label .label-red }
 
-Nov 09 : Quiz 6 (TTh sections){: .label .label-red }
+Nov 09
+: Quiz 6 (TTh sections){: .label .label-red }
 
 Nov 10
 :  **HW Last: 2D Lists, Set, Dictionaries Released**{: .label .label-blue } [HW Last: Lists, Set, Dictionaries](https://edstem.org/us/courses/41263/lessons/72121/slides/384203)
