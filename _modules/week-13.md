@@ -2,7 +2,7 @@
 title: Week 13
 ---
 
-**[Sets](https://docs.google.com/presentation/d/1XSbdcCOBeVOX6aPb98aBlwQ0YUeH9Nic23qQYIeIWU0/edit?usp=sharing)**
+**[Technical Interview](https://docs.google.com/presentation/d/191FHugzFZjlZk9PFEyzDPFDrrbjpYjm2OVgWesFT02M/edit#slide=id.g296057eba1b_0_369),[Sets](https://docs.google.com/presentation/d/1XSbdcCOBeVOX6aPb98aBlwQ0YUeH9Nic23qQYIeIWU0/edit?usp=sharing)**
 
 Nov 06
 :  **Project Wordle Starter Doc Due: Done and Reviewed**{: .label .label-red }
