@@ -8,5 +8,5 @@ title: Week 16
 Nov 28
 : Review Session w/Quan 4-6pm in room 253
 
-Nov 30
+Nov 29
 : Review Session w/Prosper 3-5pm in room 253
