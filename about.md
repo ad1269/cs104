@@ -47,12 +47,12 @@ Your overall grade will be calculated using the following relative weights:
 
 | Assignment Type | Weight in Overall Grade |
 |:-------------|:------|
-| Midterm Exam | 10% |
-| Final Exam | 10% |
-| Final Project | 10% |
-| Homework/Classwork | 50% |
+| Homework/Classwork | 40% |
 | Attendance/Participation | 10% |
 | Quizzes | 10% |
+| Midterm Exam | 10% |
+| Final Project | 10% |
+| Final Exam | 20% |
 
 Your final letter grade will be determined using the following scale:
 

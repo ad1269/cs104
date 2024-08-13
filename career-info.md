@@ -8,15 +8,9 @@ description: career info. Internships and Mock Interviews
 
 There are a lot of opportunities for technology internships designed specifically for freshmen! Even if you don’t have much programming experience, you should definitely apply. You also shouldn’t limit yourself to freshman programs because you are eligible to apply for most internships open to undergraduates.
 
-<!--- TODO (admohan)- Fix all the internship links below with current links. Most are broken other than the STEP link -->
-
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
-- [Explore Microsoft](https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond){:target="_blank"}
-- [Amazon Propel](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us){:target="_blank"}
 - [Uber Star](https://www.uber.com/us/en/careers/uberstar/){:target="_blank"}
 - [Meta University](https://www.metacareers.com/careerprograms/pathways/metauniversity){:target="_blank"}
-- [Roblox](https://careers.roblox.com/jobs/5221293){:target="_blank"}
-- [Chick Fil A Software](https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job){:target="_blank"}
 
 I found this [source of internships specifically geared towards underclassmen](https://github.com/codicate/underclassmen-internships).
 
@@ -54,7 +48,7 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 -  Recommendations from Students: [CodeSignal](https://codesignal.com/), [CodeWars](https://www.codewars.com/)
 -  [InterviewCake](https://interviewcake.com): Sign up for the free weekly emails, don't pay!
 
-### Mock Interviews with Google Career Coaches
+<!--- ### Mock Interviews with Google Career Coaches
 You can sign up for mock interviews with one of the Google TAs. Please use the links in this [doc](https://drive.google.com/file/d/15mT8BlysaEapHg0Ibl1-iXaXp8-1HBUT/view?usp=drive_link) to schedule mock interviews. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience.
 
-If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
+If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer. --->
