@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS104
-tagline: Alabama A&M CS 104 Fall 2023
+tagline: Alabama A&M CS 104 Fall 2024
 description: Intro to Computers and Ethics
-author: Joon Lee
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'http://cs104.info' # the base hostname & protocol for your site, e.g. http://example.com
+author: AD Mohanraj
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://cs104.com" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -29,18 +29,18 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Blackboard:
-    - 'https://aamu.blackboard.com'
+    - "https://aamu.blackboard.com"
   EdStem:
-    - 'https://edstem.org/us/courses/41263/'
+    - "https://edstem.org/us/courses/60701"
   PythonTutor:
-    - 'https://pythontutor.com/composingprograms.html#mode=edit'
+    - "https://pythontutor.com/composingprograms.html#mode=edit"
   CodingBat:
-    - 'https://codingbat.com/python'
+    - "https://codingbat.com/python"
   PicoCTF:
-    - 'https://picoctf.org'
+    - "https://picoctf.org"
   LeetCode:
-    - 'https://leetcode.com'
-  
+    - "https://leetcode.com"
+
 footer_content:
 
 # Collections for website data
@@ -52,25 +52,25 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: staffers
     values:
       layout: staffer
       height: 300
-      subpath: '/assets/images/'
+      subpath: "/assets/images/"
       width: 300
   - scope:
-      path: ''
+      path: ""
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: ""
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: ""
       type: announcements
     values:
       layout: announcement

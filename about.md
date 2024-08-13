@@ -23,7 +23,7 @@ CS104 is an introductory class using the Python programming language, designed f
 
 ## Course Meetings
 
-Lectures and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](http://cs104.info/schedule).
+Lectures and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](http://cs104.com/schedule).
 
 ### Lecture
 
@@ -31,7 +31,7 @@ You are expected to come to each class as there will be quizzes given at the sta
 
 ### Office Hours
 
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will contain a link in the event that can be found at the [course schedule page](http://cs104.info/schedule). You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will contain a link in the event that can be found at the [course schedule page](http://cs104.com/schedule). You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out.
 
 If you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
@@ -47,11 +47,11 @@ Your overall grade will be calculated using the following relative weights:
 
 | Assignment Type | Weight in Overall Grade |
 |:-------------|:------|
-| Midterm Exam | 20% |
-| Final Exam | 20% |
-| Homework/Classwork | 40% |
-| Participation | 5% |
-| Attendance | 5% |
+| Midterm Exam | 10% |
+| Final Exam | 10% |
+| Final Project | 10% |
+| Homework/Classwork | 50% |
+| Attendance/Participation | 10% |
 | Quizzes | 10% |
 
 Your final letter grade will be determined using the following scale:
@@ -66,21 +66,21 @@ Your final letter grade will be determined using the following scale:
 
 ### Assignments
 
-There will homeworks due on Monday at 10:00 PM, with the following homework released every Friday. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
+There will homeworks due on Thursday at 10:00 PM, with the following homework released every Friday. Additional assignments may be given out during class, although they will typically be done together and for a participation grade.
 
-### Exams 
+### Exams
 
-There will be one midterm and one final exam. There will be five quizzes.
+There will be one midterm and one final exam.
 
 ### Cheating
 
 For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. Instead of considering cheating, please reach out when you need help.
 
-We will be using software to detect plaigarism. If we ask you how your code works and you do not know, it will be evident that you have copied it. Don’t take the risk.
+We will be using software to detect plagiarism. If we ask you how your code works and you do not know, it will be evident that you have copied it. Don’t take the risk.
 
 ## Resources
 
-This course website, [cs104.info](http://cs104.info), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
+This course website, [cs104.com](http://cs104.com), will be a helpful resource for the schedule, lecture topics, and assignment links. Additionally, we will be using the following software:
 
 EdStem We will use EdStem for class discussion as well as assignments and quizzes. You will receive a link to sign up when we begin class. You are highly encouraged to post questions regarding the class directly on EdStem.
 
@@ -89,6 +89,6 @@ Python Tutor is a helpful tool to visualize your code. You may use this to help 
 Blackboard Your official class grades will be published in Blackboard. Some students will also be using Blackboard Collaborate to join lectures virtually.
 
 ### Material Attribution
-Although some course material will be created by joon, I would like to acknowledge that I am heavily borrowing from past iterations of this course with advice from Ms. Miller, as well as intro courses at various schools taught by GIR instructors.
+Although some course material will be created by AD, I would like to acknowledge that I am heavily borrowing from past iterations of this course with advice from Ms. Miller, as well as intro courses at various schools taught by GIR instructors.
 
-This website uses Just the Class as a foundation with inspiration from csci100.org and cs104.org (Fall Semester 2022 of this course)
+This website uses Just the Class as a foundation with inspiration from csci100.org and cs104.info (Fall Semester 2023 of this course)

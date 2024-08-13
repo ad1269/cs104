@@ -8,6 +8,8 @@ description: career info. Internships and Mock Interviews
 
 There are a lot of opportunities for technology internships designed specifically for freshmen! Even if you don’t have much programming experience, you should definitely apply. You also shouldn’t limit yourself to freshman programs because you are eligible to apply for most internships open to undergraduates.
 
+<!--- TODO (admohan)- Fix all the internship links below with current links. Most are broken other than the STEP link -->
+
 - [Google STEP](https://buildyourfuture.withgoogle.com/programs/step/){:target="_blank"}
 - [Explore Microsoft](https://jobs.careers.microsoft.com/global/en/job/1590499/Software-Engineering%3A-Intern-Opportunities-for-University-Students%2C-Redmond){:target="_blank"}
 - [Amazon Propel](https://www.amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us){:target="_blank"}
@@ -23,14 +25,14 @@ And there are many more internship links [here](https://github.com/SimplifyJobs/
 Most technology internships offer competitive pay. Levels.fyi is an excellent website that uses crowd sourced data to give an idea what pay is offered for various internships.
 
 [Crowd Sourced Tech Intern Pay](https://www.levels.fyi/internships/){:target="_blank"}
-  
+
 # Resumes
 There are some great resume tips on the [hackathonmentor blog](http://tinyurl.com/writingresumetips)
 
-You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates! 
+You can use [creddle.io](http://creddle.io/){:target="_blank"} for free resume templates!
 
 # Interview Prep
-In addition to hosting office hours, our Google Engineers on course staff will provide free mock interviews to you based on the material that you've learned in the class and the requirements of the STEP internship. 
+In addition to hosting office hours, our Google Engineers on course staff will provide free mock interviews to you based on the material that you've learned in the class and the requirements of the STEP internship.
 
 ### What are real interviews like? Advice and Tips/Tricks?
 
@@ -42,7 +44,7 @@ The goal of the interviews is to simulate what real technical interviews may be 
 
 Your interviewer will come prepared with a question (or maybe a few, depending on question difficulty). Don’t be afraid to ask clarifying questions - the interview should feel more like a conversation and less like an interrogation. If something is confusing, talk through it with your interviewer and they can help push you in the right direction.
 
-Afterwards, your interviewer will provide you with feedback as well as tips on how to improve your interviewing skills. 
+Afterwards, your interviewer will provide you with feedback as well as tips on how to improve your interviewing skills.
 
 ### What are some good resources to help you prepare?
 
@@ -53,6 +55,6 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 -  [InterviewCake](https://interviewcake.com): Sign up for the free weekly emails, don't pay!
 
 ### Mock Interviews with Google Career Coaches
-You can sign up for mock interviews with one of the Google TAs. Please use the links in this [doc](https://drive.google.com/file/d/15mT8BlysaEapHg0Ibl1-iXaXp8-1HBUT/view?usp=drive_link) to schedule mock interviews. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
+You can sign up for mock interviews with one of the Google TAs. Please use the links in this [doc](https://drive.google.com/file/d/15mT8BlysaEapHg0Ibl1-iXaXp8-1HBUT/view?usp=drive_link) to schedule mock interviews. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience.
 
 If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
