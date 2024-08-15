@@ -13,9 +13,9 @@ Bonjour mes amis. I am Ms. Terry Miller, a native of Huntsville, AL and a twice 
 
 Office Hours:
 
-Monday 10:00-11:00am 1:00-3:30pm\
-Tuesday 11:00-2:00pm\
-Wednesday 10:00-11:00am 1:00-3:30pm\
-Thursday/Friday: By appointment only\
+Monday 1:00-4:00pm \
+Tuesday 11:00am-1:00pm \
+Wednesday 1:00-4:00pm \
+Thursday: 11:00am-1:00pm \
 \
 Office is AJB 322
