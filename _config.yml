@@ -40,6 +40,8 @@ aux_links:
     - "https://picoctf.org"
   LeetCode:
     - "https://leetcode.com"
+  Kaggle:
+    - "https://kaggle.com"
 
 footer_content:
 
