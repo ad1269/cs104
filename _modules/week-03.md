@@ -8,5 +8,5 @@ Slides
 Aug 29
 : **HW 1 Due**{: .label .label-red}
 
-<!---Aug 23
-: **HW 2 Released**{: .label .label-blue}[HW2: Data Types, Operators, Variables](https://edstem.org/us/courses/60701/lessons/113205/slides/620913)--->
+Aug 30
+: **HW 2 Released**{: .label .label-blue}[HW2: Booleans, Logical Operators, Conditionals](https://edstem.org/us/courses/60701/lessons/113207/slides/620922)
