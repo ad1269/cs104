@@ -9,5 +9,5 @@ Slides
 Sep 12
 : **HW 3 Due**{: .label .label-red}
 
-<!---Sep 13
-: **HW 4 Released**{: .label .label-blue}[HW4: More Functions](https://edstem.org/us/courses/60701/lessons/116273/slides/644782)--->
+Sep 13
+: **HW 4 Released**{: .label .label-blue}[HW4: More Functions](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)
