@@ -8,11 +8,5 @@ Slides
 Sep 19
 : **HW 4 Due**{: .label .label-red}
 
-<!---Sep 16
-: **Extra Credit Released**{: .label .label-blue}[EC1: CodeDex](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
-
-<!---Sep 16
-: **Extra Credit Released**{: .label .label-blue}[EC2: Countdown from 21](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
-
-<!---Sep 20
-: **HW 5 Released**{: .label .label-blue}[HW4: More Functions](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
+Sep 20
+: **HW 5 Released**{: .label .label-blue}[HW5: Strings, While Loops](https://edstem.org/us/courses/60701/lessons/118702/slides/659851)
