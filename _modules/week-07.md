@@ -5,7 +5,7 @@ title: Week 7
 Slides
 : [For Loops](https://docs.google.com/presentation/d/1w33O-niO7Lgn_smDzG0xGlzLVFiCUBU2esS6Z94WSQ4/edit?usp=sharing)
 
-Sep 26
+Oct 1
 : **HW 5 Due**{: .label .label-red}
 
 <!---Sep 20
