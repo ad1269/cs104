@@ -14,5 +14,5 @@ Oct 16
 Oct 17
 :  **Midterm (TTh)**
 
-<!---Oct 17
-: **HW 8 Released**{: .label .label-blue}[HW8: CTFs](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
+Oct 18
+: **HW 8 Released**{: .label .label-blue}[HW8: CTFs](https://edstem.org/us/courses/60701/lessons/119466/slides/663646)
