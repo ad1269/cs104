@@ -8,5 +8,6 @@ Slides
 Oct 24
 : **HW 8 Due**{: .label .label-red}
 
-<!---Oct 4
-: **HW 7 Released**{: .label .label-blue}[HW6: For Loops](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
+Oct 25
+:  **Project Wordle - Starter Doc Released**{: .label .label-blue } [Project: Wordle Project - Starter Doc](https://edstem.org/us/courses/41263/lessons/72858/slides/394646)
+:  **Project Worlde - Final Project Released**{: .label .label-blue } [Project: Wordle Project - Final Project](https://edstem.org/us/courses/41263/lessons/73255/slides/394643)

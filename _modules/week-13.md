@@ -1,5 +1,7 @@
+<!---
+
 ---
-title: Week 12
+title: Week 13
 ---
 
 Slides
@@ -11,4 +13,4 @@ Slides
 <!---Oct 4
 : **HW 7 Released**{: .label .label-blue}[HW6: For Loops](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
 
-
+--->
