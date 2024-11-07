@@ -1,11 +1,9 @@
-<!---
-
 ---
 title: Week 13
 ---
 
 Slides
-: [Pseudocode](https://docs.google.com/presentation/d/1hUq92BaBFZSVVe87LPO3XB4Rcd3z2pX0t7wfqeYysQQ/edit?usp=sharing), [Dictionaries](https://docs.google.com/presentation/d/1G_JCI4coYxzMoBELi82ybvjD3ieUUwy-2MrOzw-DBZ8/edit?usp=sharing)
+: [Indentation Review](https://docs.google.com/presentation/d/18gKX9nQTpflCqOW3ludG_XqV6BGK72bPfH-PdBI-4is/edit#slide=id.g144099aeac2_0_381), [Sets](https://docs.google.com/presentation/d/1YQYWXnpR0EHwLL0431ZDVv1efOTMtYeeI3WBiKcJkUc/edit#slide=id.p)
 
 <!---Oct 4
 : **HW 6 Due**{: .label .label-red}--->
@@ -13,4 +11,3 @@ Slides
 <!---Oct 4
 : **HW 7 Released**{: .label .label-blue}[HW6: For Loops](https://edstem.org/us/courses/60701/lessons/116274/slides/655869)--->
 
---->
