@@ -1,10 +1,9 @@
-<!---
 ---
 title: Week 15
 ---
 
 Slides
-: [Indentation Review](https://docs.google.com/presentation/d/18gKX9nQTpflCqOW3ludG_XqV6BGK72bPfH-PdBI-4is/edit#slide=id.g144099aeac2_0_381), [Sets](https://docs.google.com/presentation/d/1YQYWXnpR0EHwLL0431ZDVv1efOTMtYeeI3WBiKcJkUc/edit#slide=id.p)
+: [Recursion](https://docs.google.com/presentation/d/1Q_SEHiY0S563QJqs37Kgm6-mhZoedqadc-GShRTJDS8/edit?usp=sharing), [Interview Communication](https://docs.google.com/presentation/d/1E4TNoLMX7Oc0rCvHUZw_Lc_2hriDyg1vTiondsQuSnw/edit?usp=sharing), [Ethics](https://docs.google.com/presentation/d/1R_cJgaARyWIWcaPVbSorrDneHIToPLaIBCBt8un8crQ/edit?usp=sharing)
 
 <!---Oct 4
 : **HW 6 Due**{: .label .label-red}--->
